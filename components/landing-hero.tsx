@@ -12,15 +12,15 @@ export const LandingHero = () => {
   return (
     <div className="text-white font-bold py-36 text-center space-y-5">
       <div className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl space-y-5 font-extrabold">
-        <h1>The Best AI Tool for</h1>
+        <h1>Phần mềm ERP sản xuất - Tối ưu hóa quy trình sản xuất.</h1>
         <div className="text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600">
           <TypewriterComponent
             options={{
               strings: [
-                "Chatbot.",
-                "Image Generation.",
-                "Blog Writing.",
-                "Mail Writing.",
+                "Quản Lý Kho Hàng.",
+                "Quản Lý Tiến Độ.",
+                "Tính Công - Tiền Lương.",
+                "Quản Lý Vệ Tinh.",
               ],
               autoStart: true,
               loop: true,
