@@ -23,7 +23,7 @@ const testimonials = [
       "Trải nghiệm tuyệt vời từ đầu đến cuối! Đội ngũ đã chú ý đến yêu cầu của tôi và cung cấp hỗ trợ tuyệt vời trong suốt quá trình. Tôi rất hài lòng với sản phẩm cuối cùng và chắc chắn sẽ quay lại thêm. Rất hài lòng!",
   },
   {
-    name: "Ms Châu",
+    name: "Mr Hùng",
     avatar: "M",
     title: "Trưởng Phòng Kỹ Thuật",
     description:
