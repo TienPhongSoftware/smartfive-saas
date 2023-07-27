@@ -29,7 +29,7 @@ export const LandingHero = () => {
         </div>
       </div>
       <div className="text-sm md:text-xl font-light text-zinc-400">
-        Create content using AI 10x faster.
+      Tương lai của quản lý sản xuất.
       </div>
       <div>
         <Link href={isSignedIn ? "/dashboard" : "/sign-up"}>
@@ -37,12 +37,12 @@ export const LandingHero = () => {
             variant="premium"
             className="md:text-lg p-4 md:p-6 rounded-full font-semibold"
           >
-            Start Generating For Free
+            Sử dụng thử SmartFive miễn phí
           </Button>
         </Link>
       </div>
       <div className="text-zinc-400 text-xs md:text-sm font-normal">
-        No credit card required.
+        Không yêu cầu thông tin.
       </div>
     </div>
   );

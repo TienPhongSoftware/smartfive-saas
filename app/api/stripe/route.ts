@@ -43,8 +43,8 @@ export async function GET() {
           price_data: {
             currency: "USD",
             product_data: {
-              name: "Clarity Pro",
-              description: "Unlimited AI Generations",
+              name: "SmartFive Pro",
+              description: "Unlimited SmartFive",
             },
             unit_amount: 2000,
             recurring: {

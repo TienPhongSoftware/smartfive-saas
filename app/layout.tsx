@@ -11,8 +11,8 @@ import "./globals.css";
 const font = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Clarity",
-  description: "AI Platform",
+  title: "Tiên Phong AI",
+  description: "TP Platform",
 };
 
 export default async function RootLayout({
