@@ -50,8 +50,5 @@
   },
   "devDependencies": {
     "prisma": "^5.0.0"
-  },
-  "engines": {
-  "node": "11.15.0"
-}
+  }
 }
