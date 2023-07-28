@@ -3,15 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-  "dev": "npm run next:dev",
-  "build": "npm run next:build",
-  "start": "npm run next:start",
-  "lint": "npm run next:lint",
-  "postinstall": "prisma generate",
-  "next:dev": "next dev",
-  "next:build": "next build",
-  "next:start": "next start",
-  "next:lint": "next lint"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "postinstall": "prisma generate"
   },
   "dependencies": {
     "@clerk/nextjs": "^4.22.1",
